@@ -1,15 +1,3 @@
-# openelec-autobluetooth-kb
-auto-connect a bluetooth keyboard in OpenElec OS
-
-Installation
-------------
-```bash
-berry:~ # vi /storage/.config/autostart.sh
-```
-
-Shell Script
-------------
-```bash
 #/bin/bash
 # berry:~ # vi /storage/.config/autostart.sh
 
@@ -31,6 +19,5 @@ quit
 EOF
 
 ) &
-```
 
 
